@@ -1,6 +1,7 @@
 # Buneris Ingus (B.I.)  
 **QA Engineer — Manual & Automation**  
 Functional & Integration Testing • Jira • Test Automation • Process Improvement
+
 Practical, results-driven QA who combines hands-on exploratory testing with pragmatic automation and clear reporting to reduce risk and speed delivery.
 
 ---
